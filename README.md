@@ -67,9 +67,9 @@ It utilizes **PdfiumViewer** for PDF rendering and **PdfSharp** for PDF editing 
 
 ## 📸 Screenshots
 
-| Open & View PDF | Merge PDFs |
+| Open & View PDF | Merge PDFs | Merge PDFs Result |
 |:---|:---|:---|
-| ![Open PDF](screenshots/open_pdf.png) | ![Merge PDF](screenshots/merge_pdf1.png) (screenshots/merge_pdf2.png)|
+| ![Open PDF](screenshots/open_pdf.png) | ![Merge PDF](screenshots/merge_pdf1.png) | ![Rotate/Delete Page](screenshots/merge_pdf2.png) |
 
 *(add screenshots if you have, otherwise remove this section)*
 
